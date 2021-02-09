@@ -12,7 +12,7 @@ const quizData = [
         a:"Football",
         b:"Cricket",
         c:"Volley Ball",
-        d:"None of The Abover",
+        d:"None of The Above",
         correct:"b"
     },
     {
