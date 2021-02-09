@@ -53,7 +53,7 @@ const quizData = [
         b:"BBA",
         c:"BCA",
         d:"BA",
-        correct:"a"
+        correct:"c"
     },
     {
         question:"We Are in Family ?",
@@ -61,7 +61,7 @@ const quizData = [
         b:"4",
         c:"5",
         d:"7",
-        correct:"a"
+        correct:"b"
     },
 ]
 
