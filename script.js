@@ -1,26 +1,66 @@
 const quizData = [
     {
-        question: "Which Language Runs in a Web Browser?",
-        a:"Java",
-        b:"C",
-        c:"python",
-        d:"Javascript",
-        correct:"d",
+        question: "What Would I Like ?",
+        a:"Tea",
+        b:"Coffee",
+        c:"Wine",
+        d:"Cold Drink",
+        correct:"b",
     },
     {
-        question:"What Does CSS Stands for ?",
-        a:"Central Style Sheets",
-        b:"Cascading Style Sheets",
-        c:"Cascading Simple Sheets",
-        d:"Cars SUVs Sailboats",
+        question:"What I Played the Most ?",
+        a:"Football",
+        b:"Cricket",
+        c:"Volley Ball",
+        d:"None of The Abover",
         correct:"b"
     },
     {
-        question:"HTML Stands for ?",
-        a:"Hyper Text Markup Language",
-        b:"Hyper Text Made Language",
-        c:"Hello Text Made Language",
-        d:"Hyper Text Markup List",
+        question:"What I Like the Most ?",
+        a:"Instagram",
+        b:"Facebook",
+        c:"Youtube",
+        d:"Snapchat",
+        correct:"a"
+    },
+    {
+        question:"How Is My Nature ?",
+        a:"Good",
+        b:"Bad",
+        c:"Funny",
+        d:"Lazy",
+        correct:"c"
+    },
+    {
+        question:"How Is My Personality ?",
+        a:"Good",
+        b:"Average",
+        c:"Bad",
+        d:"Ugly",
+        correct:"a"
+    },
+    {
+        question:"I am your ?",
+        a:"Friend",
+        b:"Best Friend",
+        c:"Close Friend",
+        d:"Just Friend",
+        correct:"a"
+    },
+    {
+        question:"What Am Actually Doing ?",
+        a:"B.com",
+        b:"BBA",
+        c:"BCA",
+        d:"BA",
+        correct:"a"
+    },
+    {
+        question:"We Are in Family ?",
+        a:"3",
+        b:"4",
+        c:"5",
+        d:"7",
         correct:"a"
     },
 ]
