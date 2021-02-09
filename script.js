@@ -22,6 +22,7 @@ const quizData = [
         c:"Hello Text Made Language",
         d:"Hyper Text Markup List",
         correct:"a"
+    },
 ]
 
 const quiz = document.getElementById('quiz');
