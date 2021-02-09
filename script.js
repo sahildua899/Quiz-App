@@ -15,6 +15,13 @@ const quizData = [
         d:"Cars SUVs Sailboats",
         correct:"b"
     },
+    {
+        question:"HTML Stands for ?",
+        a:"Hyper Text Markup Language",
+        b:"Hyper Text Made Language",
+        c:"Hello Text Made Language",
+        d:"Hyper Text Markup List",
+        correct:"a"
 ]
 
 const quiz = document.getElementById('quiz');
